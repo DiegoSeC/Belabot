@@ -1,0 +1,8 @@
+{
+	"name": "belabot",
+	"main": "index.html",
+	"dependencies": {
+		"phantomjs": "latest",
+		"casperjs": "latest"
+	}
+}
