@@ -3,6 +3,7 @@
 	"main": "index.html",
 	"dependencies": {
 		"phantomjs": "latest",
-		"casperjs": "latest"
+		"casperjs": "latest",
+		"moment": "latest"
 	}
 }
